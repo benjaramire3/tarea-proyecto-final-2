@@ -1,0 +1,275 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.recopilacion {
+    background-color: #8a2be2;
+    margin: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.recopilacion p {
+    max-width: 600px;
+}
+
+.header {
+    display: flex;
+}
+
+.logo img{
+    width: 60px;
+}
+
+.img2 {
+    width: 100px;
+    padding: 10px;
+}
+
+.desarrollo {
+    background-color: rgb(165, 42, 42);
+    margin: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.desarrollo p {
+    max-width: 600px;
+}
+
+.importante {
+    background-color: #e22bab;
+    margin: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.importante p {
+    max-width: 600px;
+}
+
+.resumen {
+    background-color: #8a2be2;
+    margin: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.resumen p {
+    max-width: 600px;
+}
+
+.origen {
+    background-color: rgb(43, 189, 226);
+    margin: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.origen p {
+    max-width: 600px;
+}
+
+.mapa {
+    background-color: #8a2be2;
+    margin: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.mapa h6 {
+    font-size: 25px;
+}
+
+.mapa a {
+    max-width: 600px;
+    font-size: 50px;
+}
+
+.premisa {
+    background-color: rgb(28, 163, 50);
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.premisa h7 {
+    font-size: 25px;
+}
+
+.premisa p {
+    max-width: 600px;
+}
+
+.paginas {
+    background-color: rgb(28, 163, 50);
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.paginas li {
+    font-size: 20px;
+}
+
+.logo {
+    width: 60px;
+}
+
+.creditos {
+    background-color: #926c05;
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.creditos h1 {
+    font-size: 100px;
+}
+
+.creditos h2 {
+    font-size: 100px;
+}
+
+.creditos h3 {
+    font-size: 100px;
+}
+
+.form {
+    background-color: #926c05;
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form a {
+    max-width: 600px;
+    font-size: 30px;
+}
+
+.produccion {
+    background-color: rgb(5, 146, 24);
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.produccion p {
+    max-width: 600px;
+}
+
+.spo {
+    background-color: rgb(133, 101, 146);
+    margin: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ani {
+    background-color: olivedrab;
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ani p {
+    max-width: 600px;
+}
+
+.redes {
+    background-color: rgb(82, 83, 79);
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.datos {
+    background-color: #926c05;
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sec {
+    background-color: #8a2be2;
+    margin: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sec p {
+    max-width: 800px;
+}
+
+.amb {
+    background-color: rgb(5, 146, 24);
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.amb p {
+    max-width: 500px;
+}
+
+.amb a {
+    font-size: 20px;
+}
+
+.catalogo {
+    background-color: #8a2be2;
+    margin: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ropa {
+    background-color: #81003c;
+    margin: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ropa img {
+    max-width: 500px;
+}
